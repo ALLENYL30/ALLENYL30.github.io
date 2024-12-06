@@ -22,7 +22,7 @@ services:
 
 
 pagination:
-    pagerSize: 5
+    pagerSize: 3
 
 permalinks:
     post: /p/:slug/
