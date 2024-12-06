@@ -12,30 +12,6 @@ DefaultContentLanguage: en
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage: false
 
-languages:
-    en:
-        languageName: English
-        title: Example Site
-        weight: 1
-        params:
-            sidebar:
-                subtitle: Example description
-    zh-cn:
-        languageName: 中文
-        title: 演示站点
-        weight: 2
-        params:
-            sidebar:
-                subtitle: 演示说明
-    ar:
-        languageName: عربي
-        languagedirection: rtl
-        title: موقع تجريبي
-        weight: 3
-        params:
-            sidebar:
-                subtitle: وصف تجريبي
-
 services:
     # Change it to your Disqus shortname before using
     disqus:
@@ -46,7 +22,7 @@ services:
 
 
 pagination:
-    pagerSize: 3
+    pagerSize: 5
 
 permalinks:
     post: /p/:slug/
