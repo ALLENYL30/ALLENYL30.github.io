@@ -1,4 +1,4 @@
-baseurl: https://allenyl30.github.io/testblg
+baseurl: https://allenyl30.github.io
 languageCode: en-us
 theme: hugo-theme-stack
 title: Example Site
@@ -33,7 +33,7 @@ params:
       - post
     featuredImageField: image
     rssFullContent: true
-    favicon: /favicon.ico
+    favicon: favicon.ico
 
     # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
