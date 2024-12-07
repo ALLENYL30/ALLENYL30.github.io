@@ -22,7 +22,7 @@ services:
 
 
 pagination:
-    pagerSize: 3
+    pagerSize: 5
 
 permalinks:
     post: /p/:slug/
@@ -204,15 +204,15 @@ menu:
     social:
       - identifier: github
         name: GitHub
-        url: https://github.com/CaiJimmy/hugo-theme-stack
+        url: https://github.com/ALLENYL30
         params:
             icon: brand-github
 
-      - identifier: twitter
-        name: Twitter
-        url: https://twitter.com
+      - identifier: linkedin
+        name: linkedin
+        url: https://www.linkedin.com/in/zzyliu74/
         params:
-            icon: brand-twitter
+            icon: brand-linkedin
 
 related:
     includeNewer: true
