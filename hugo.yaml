@@ -1,7 +1,7 @@
 baseurl: https://allenyl30.github.io
 languageCode: en-us
 theme: hugo-theme-stack
-title: Yuhao's Coding Blog
+title: Dev Journal
 copyright: Yuhao
 
 # Theme i18n support
@@ -48,7 +48,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: Infinite Progress
         avatar:
             enabled: true
             local: true
