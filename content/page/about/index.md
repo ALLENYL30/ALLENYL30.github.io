@@ -1,34 +1,87 @@
 ---
-title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+title: About Me
+description: Junior C# Developer passionate about .NET and cloud technologies
+date: "2024-03-08"
 aliases:
   - about-us
-  - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: "2024-03-08"
 menu:
-    main: 
-        weight: -90
-        params:
-            icon: user
+  main:
+    weight: -90
+    params:
+      icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+# About Me
 
-Hugo makes use of a variety of open source projects including:
+Hi, I'm Yuhao!
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I'm a Junior C# Developer who started my professional journey in software development two years ago. My passion for coding began during my computer science studies, where I fell in love with the .NET ecosystem and its capabilities.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## Professional Experience
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Currently, I work at TechFlow Solutions as a Junior Software Developer, where I get to work with:
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+- ASP.NET Core web applications
+- Azure cloud services
+- SQL Server databases
+- Entity Framework Core
+- Blazor WebAssembly
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+I've been fortunate to be part of a team that develops and maintains enterprise applications, giving me hands-on experience with real-world software development challenges. My daily work involves writing clean code, implementing new features, and learning from senior developers who mentor me.
+
+## Learning Journey
+
+My tech journey started with console applications in C#, but I quickly expanded into:
+
+- Web development using ASP.NET Core
+- Building RESTful APIs
+- Working with Git and Azure DevOps
+- Understanding CI/CD pipelines
+- Learning cloud architecture on Azure
+
+I'm currently diving deeper into:
+
+- Microservices architecture
+- Docker containerization
+- Advanced Entity Framework concepts
+- Azure Functions and serverless computing
+- Clean Architecture principles
+
+## Community Involvement
+
+I believe in growing together with the developer community. You can find me:
+
+- Contributing to small open-source projects on GitHub
+- Attending local .NET meetups
+- Writing technical articles on my blog
+- Participating in coding workshops
+
+## Side Projects
+
+I maintain a few personal projects to experiment with new technologies:
+
+- A task management application built with Blazor
+- A weather notification service using Azure Functions
+- Various GitHub repositories where I practice new concepts
+
+## Goals
+
+As a junior developer, I'm focused on:
+
+- Strengthening my foundation in C# and .NET
+- Learning cloud-native development practices
+- Understanding enterprise software architecture
+- Contributing more to open-source projects
+- Eventually becoming a full-stack .NET developer
+
+## Let's Connect!
+
+I'm always eager to learn and connect with fellow developers. You can find me on:
+
+- GitHub: [ALLENYL30](https://github.com/ALLENYL30)
+- LinkedIn: [Yuhao Liu](https://www.linkedin.com/in/zzyliu74/)
+
+Feel free to reach out if you want to collaborate on projects or just chat about technology!
