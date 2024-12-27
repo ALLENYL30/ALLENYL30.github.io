@@ -2,8 +2,7 @@
 author = "yuhao"
 title = "C# String Manipulation: Practical Tips & Common Mistakes for Beginners"
 date = "2024-12-27"
-description = "CMost developers interact with strings every single day. But do you really understand how strings work, and can you pick the most efficient way to solve real-world problems? In this article, we’ll go over some useful tips and common mistakes when working with C# strings.
-"
+description = "tips and tricks for string operation in C#"
 tags = [
     "C#",
     ".NET",
