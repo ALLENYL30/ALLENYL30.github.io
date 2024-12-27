@@ -1,8 +1,8 @@
 +++
 author = "yuhao"
-title = "C# String Manipulation: Practical Tips & Common Mistakes for Beginners"
+title = "String-Manipulation: Practical Tips & Common Mistakes for Beginners in C#"
 date = "2024-12-27"
-description = "tips and tricks for string operation in C#"
+description = "Master C# string handling with essential techniques for string concatenation, formatting, and performance optimization."
 tags = [
     "C#",
     ".NET",
@@ -14,7 +14,7 @@ categories = [
     "Practices"
 ]
 series = ["tips and tricks"]
-aliases = ["tips and tricks"]
+aliases = ["string-manipulation"]
 image = "cover.jpg"
 +++
 
