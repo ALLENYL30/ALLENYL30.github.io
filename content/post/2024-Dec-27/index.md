@@ -15,7 +15,7 @@ categories = [
 ]
 series = ["tips and tricks"]
 aliases = ["tips and tricks"]
-image = "image.png"
+image = "cover.jpg"
 +++
 
 # C# String Manipulation: Practical Tips & Common Mistakes for Beginners
