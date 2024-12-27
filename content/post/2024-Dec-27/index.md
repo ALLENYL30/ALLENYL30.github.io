@@ -1,3 +1,24 @@
++++
+author = "yuhao"
+title = "C# String Manipulation: Practical Tips & Common Mistakes for Beginners"
+date = "2024-12-27"
+description = "CMost developers interact with strings every single day. But do you really understand how strings work, and can you pick the most efficient way to solve real-world problems? In this article, we’ll go over some useful tips and common mistakes when working with C# strings.
+"
+tags = [
+    "C#",
+    ".NET",
+    "string"
+]
+categories = [
+    "Programming/Development",
+    "Tutorials",
+    "Practices"
+]
+series = ["tips and tricks"]
+aliases = ["tips and tricks"]
+image = "image.png"
++++
+
 # C# String Manipulation: Practical Tips & Common Mistakes for Beginners
 
 **Date:** Jul 27, 2024  
