@@ -11,6 +11,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 A practical guide to creating random captcha images in .NET applications without external dependencies. This solution leverages `System.Drawing.Common` for image manipulation and provides full control over captcha generation.
 

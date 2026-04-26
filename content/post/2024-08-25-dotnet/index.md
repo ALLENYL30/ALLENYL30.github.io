@@ -11,6 +11,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 # Apollo Configuration Center Guide
 

@@ -11,6 +11,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 Web scraping carries inherent risks and should be performed ethically. This guide demonstrates practical implementations using three popular .NET libraries.
 

@@ -10,6 +10,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 ## Introduction
 

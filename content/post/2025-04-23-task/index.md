@@ -12,6 +12,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 Since C# 5.0 introduced the `async` and `await` keywords, asynchronous programming has become remarkably simple. The `Task` type has played a crucial role in this paradigm, becoming a ubiquitous part of modern .NET development. However, with the release of .NET Core 2.0, Microsoft introduced a new type: `ValueTask`. What is this type, why do we need it, and in what situations should we use it? Let's explore these questions today.
 

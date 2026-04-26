@@ -12,6 +12,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 WebApplication is used to configure the HTTP pipeline and routes in web applications. In this article, I'll break down its components and structure.
 

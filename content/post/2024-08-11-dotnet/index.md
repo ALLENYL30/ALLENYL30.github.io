@@ -11,6 +11,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 # Kafka Quick Start Guide
 

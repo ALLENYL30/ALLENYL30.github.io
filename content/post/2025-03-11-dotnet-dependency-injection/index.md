@@ -12,6 +12,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 Dependency Injection (DI) is a design pattern used to decouple dependencies between components (services). It achieves this by delegating the creation and management of dependencies to an external container, rather than having components create their dependent objects directly.
 

@@ -11,6 +11,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 A ready-to-use project template for rapidly building applications with ABP vNext framework. This template comes pre-configured with essential components including Redis, Swagger UI, Autofac DI, Serilog logging, database migrations, JWT authentication, and multi-language support. It offers flexible database switching between MySQL, SQL Server, SQLite, and MongoDB through simple configuration changes - truly enabling out-of-the-box development for immediate business implementation.
 

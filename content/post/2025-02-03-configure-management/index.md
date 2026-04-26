@@ -11,6 +11,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 A comprehensive guide to leveraging appsettings.json for flexible configuration management in .NET Core applications.
 

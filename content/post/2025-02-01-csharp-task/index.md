@@ -12,6 +12,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 The `Task` class in C# is a powerful tool for multithreaded programming, enabling asynchronous operations, parallel processing, and task cancellation. This guide demonstrates common patterns and best practices for leveraging `Task` effectively.
 

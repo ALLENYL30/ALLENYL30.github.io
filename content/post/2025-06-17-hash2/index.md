@@ -11,6 +11,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 In a previous article, we explored the topic of salted password hashing. This time, we'll expand on that by taking a broader look at the world of hash functions.
 

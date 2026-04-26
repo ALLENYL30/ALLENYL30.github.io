@@ -12,6 +12,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 In multi-threaded development, we often use flags and polling to control execution logic within threads. However, this approach reduces code readability and maintainability while lacking elegance. This article explores how to use semaphores and other mechanisms to replace polling and flags, thereby improving inter-thread communication and control.
 

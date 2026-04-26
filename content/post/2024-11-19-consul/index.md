@@ -11,6 +11,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 Deploy a 3-server-node cluster + 1 client node using Docker:
 

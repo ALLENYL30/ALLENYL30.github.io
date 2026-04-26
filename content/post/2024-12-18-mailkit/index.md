@@ -11,6 +11,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 A practical implementation guide for sending emails in .NET applications using the recommended MailKit library, featuring HTML content embedding and dependency injection patterns.
 

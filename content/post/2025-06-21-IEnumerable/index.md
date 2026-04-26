@@ -11,6 +11,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 In C#, types like `List<T>` (and others such as `ImmutableList<T>`) include a convenient `ForEach` method. It can be seen as a more functional-style alternative to the traditional `foreach` loop. For example:
 

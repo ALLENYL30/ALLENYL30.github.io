@@ -10,6 +10,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 When writing C# code, we frequently define auto-properties like this:
 

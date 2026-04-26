@@ -11,6 +11,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 Working with strings is a daily task for developers, but mastering efficient and error-free string operations in C# requires understanding key techniques and avoiding common mistakes. This guide explores best practices for optimizing string handling.
 

@@ -11,6 +11,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 The topic of salting and hashing passwords is a fundamental concept in security, but why is it so crucial? This article will guide you through the evolution of password storage, from insecure to secure, to demonstrate the necessity of salted hashing and how to implement it.
 

@@ -10,6 +10,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 Copying directories in C# isn’t straightforward since .NET lacks a built-in method for this task. This guide explores three practical approaches to achieve directory copying, each with its pros and cons.
 

@@ -11,6 +11,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 There are multiple ways to generate QR codes. This article demonstrates how to use `QRCoder`—a lightweight and easy-to-use library that supports concurrent generation without relying on third-party dependencies.
 

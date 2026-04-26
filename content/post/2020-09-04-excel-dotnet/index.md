@@ -12,6 +12,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 **EPPlus GitHub Repository**: [https://github.com/EPPlusSoftware/EPPlus](https://github.com/EPPlusSoftware/EPPlus)
 

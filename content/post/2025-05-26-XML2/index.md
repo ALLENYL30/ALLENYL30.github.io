@@ -11,6 +11,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 Continuing our exploration from last time, let's dive deeper into the surprising performance differences in XML parsing. Our sample XML remains the same, provided by W3Schools:
 

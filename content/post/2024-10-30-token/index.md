@@ -11,6 +11,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 This guide demonstrates JWT authentication implementation in .NET Core with custom configurations and error handling.
 

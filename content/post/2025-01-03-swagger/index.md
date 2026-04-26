@@ -11,6 +11,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 A practical implementation guide for leveraging Swagger/OpenAPI documentation in ASP.NET Core projects, featuring advanced configurations and security integration.
 

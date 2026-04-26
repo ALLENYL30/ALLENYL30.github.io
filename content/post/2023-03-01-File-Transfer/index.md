@@ -11,6 +11,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 This guide demonstrates a reliable file transfer solution using C#'s native networking classes, with enhancements for error handling, asynchronous operations, and large file support.
 

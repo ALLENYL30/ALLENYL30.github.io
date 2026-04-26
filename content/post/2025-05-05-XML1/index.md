@@ -11,6 +11,7 @@ tags = [
 categories = [
     "Programming/Development",
 ]
+image = "cover.jpg"
 +++
 I recently encountered a task at work involving reading and writing XML, which led me to explore the performance implications of different approaches. I'd like to share my findings with you.
 
