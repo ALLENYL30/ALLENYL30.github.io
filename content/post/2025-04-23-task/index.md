@@ -1,6 +1,7 @@
 +++
 author = "yuhao"
 title = "Why ValueTask? A Guide to C#'s Performance-Oriented Task Alternative"
+slug = "why-valuetask-a-guide-to-csharp-s-performance-oriented-task-alternative"
 date = "2025-04-23"
 description = "Since C# 5.0 introduced the async and await keywords, asynchronous programming has become remarkably simple. The Task type has played a crucial role in this paradigm, becoming a ubiquitous part of..."
 tags = [

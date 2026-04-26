@@ -1,6 +1,7 @@
 +++
 author = "yuhao"
 title = "Three Methods to Copy Directories in C#"
+slug = "three-methods-to-copy-directories-in-csharp"
 date = "2025-03-04"
 description = "Copying directories in C# isn’t straightforward since .NET lacks a built-in method for this task. This guide explores three practical approaches to achieve directory copying, each with its pros and..."
 tags = [

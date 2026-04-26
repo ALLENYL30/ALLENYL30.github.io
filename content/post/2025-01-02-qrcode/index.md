@@ -1,6 +1,7 @@
 +++
 author = "yuhao"
 title = "Generating QR Codes in C#"
+slug = "generating-qr-codes-in-csharp"
 date = "2025-01-01"
 description = "There are multiple ways to generate QR codes. This article demonstrates how to use QRCoder—a lightweight and easy-to-use library that supports concurrent generation without relying on third-party..."
 tags = [

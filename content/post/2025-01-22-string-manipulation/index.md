@@ -1,6 +1,7 @@
 +++
 author = "yuhao"
 title = "C# String Manipulation"
+slug = "csharp-string-manipulation"
 date = "2025-01-22"
 description = "Working with strings is a daily task for developers, but mastering efficient and error-free string operations in C# requires understanding key techniques and avoiding common mistakes. This guide..."
 tags = [

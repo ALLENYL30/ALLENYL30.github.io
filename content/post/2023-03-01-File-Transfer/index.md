@@ -1,6 +1,7 @@
 +++
 author = "yuhao"
 title = "File Transfer in C#"
+slug = "file-transfer-in-csharp"
 date = "2023-03-01"
 description = "This guide demonstrates a reliable file transfer solution using C#'s native networking classes, with enhancements for error handling, asynchronous operations, and large file support."
 tags = [

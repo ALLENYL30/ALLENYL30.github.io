@@ -1,6 +1,7 @@
 +++
 author = "yuhao"
 title = "Fields vs. Properties: Why Not Just Use Public Fields in C#?"
+slug = "fields-vs-properties-why-not-just-use-public-fields-in-csharp"
 date = "2025-05-12"
 description = "When writing C# code, we frequently define auto-properties like this:"
 tags = [

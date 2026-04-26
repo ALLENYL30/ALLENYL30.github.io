@@ -1,6 +1,7 @@
 +++
 author = "yuhao"
 title = "Task in C#"
+slug = "task-in-csharp"
 date = "2025-01-31"
 description = "The Task class in C# is a powerful tool for multithreaded programming, enabling asynchronous operations, parallel processing, and task cancellation. This guide demonstrates common patterns and best..."
 tags = [

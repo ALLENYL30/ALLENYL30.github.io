@@ -1,6 +1,7 @@
 +++
 author = "yuhao"
 title = "Efficient XML Parsing in C#: A Performance Comparison"
+slug = "efficient-xml-parsing-in-csharp-a-performance-comparison"
 date = "2025-05-04"
 description = "I recently encountered a task at work involving reading and writing XML, which led me to explore the performance implications of different approaches. I'd like to share my findings with you."
 tags = [
