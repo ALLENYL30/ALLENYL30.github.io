@@ -1,6 +1,7 @@
 +++
 author = "yuhao"
 title = ".NET 8 Dependency Injection"
+slug = "dotnet-8-dependency-injection"
 date = "2025-03-10"
 description = "Dependency Injection (DI) is a design pattern used to decouple dependencies between components (services). It achieves this by delegating the creation and management of dependencies to an external..."
 tags = [
